@@ -1,3 +1,15 @@
 #root {
-  color: red;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.episodeContainer {
+  width: 40%;
+  border: solid 2px rgb(178, 223, 224);
+  text-align: center; 
+}
+
+.summary {
+  padding: 5px;
 }
